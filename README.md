@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/aniketh-shrivastav">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=aniketh-shrivastav&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <a href="https://github.com/aniketh-shrivastav?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/aniketh-shrivastav?label=Followers&style=social" />
   </a>
   <img src="https://img.shields.io/badge/GATE%202026-Qualified-success" />
 </p>
