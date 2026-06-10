@@ -88,7 +88,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JEE%20Mains-Top%202.5%25-blue" />
   <img src="https://img.shields.io/badge/GATE%202026-Qualified-brightgreen" />
-  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange" />
+  <img src="https://img.shields.io/badge/LeetCode-160%2B%20Problems-orange" />
   <img src="https://img.shields.io/badge/PRMO-Merit%20Certificate-purple" />
 </p>
 
