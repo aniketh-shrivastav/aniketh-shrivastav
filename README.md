@@ -45,7 +45,7 @@
 * 🔐 Secure authentication system
 * 📦 Optimized MongoDB schema for scalability
 
-**Tech:** React • Node.js • Express • MongoDB • WebSockets
+**Tech:** React • Node.js • Express • MongoDB • Socket.IO
 
 ---
 
