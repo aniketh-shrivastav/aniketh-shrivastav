@@ -21,7 +21,7 @@
 + Backend-focused Full Stack Developer with strong system design fundamentals
 + B.Tech CSE @ IIIT Sri City (CGPA: 8.68)
 + Built scalable full-stack + ML systems end-to-end
-+ Solved 174+ DSA problems (LeetCode)
++ Solved 240+ DSA problems (LeetCode)
 + Top 2.5% in JEE Mains (1M+ candidates)
 ```
 
